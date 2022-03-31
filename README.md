@@ -3,8 +3,11 @@
 This model takes nitrogen concentration and environmental parameters for the Waquoit Bay, MA estuary and outputs the predicted MeHg concentration in fish.
 
 Evan S. Hunsicker 
+
 Senior design project for ENG-SCI 100: "Modeling the Effect of Nitrogen Loading on Methylmercury Bioaccumulation in Estuarine Fish"
+
 Harvard University
+
 1 April 2022
 
 # Citation of prior work
