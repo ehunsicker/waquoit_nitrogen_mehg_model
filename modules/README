@@ -1,0 +1,4 @@
+Modules used by the runscript to execute foodweb bioaccumulation model runs.
+ProbabilisticModelStochastic.m sets up the model definition, iterations and looping based on provided inputs.
+odeBioaccumulationStochastic.m defines the equations of growth and MeHg accumulation to be solved.
+Other files are helper functions or classes used in those modules. 
